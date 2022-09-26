@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yongkheng
 - 👀 I’m interested in Python, Physics, Maths, Machine Learning
-- 🌱 I’m currently learning FastAPI
 - 📫 How to reach me goh.yongkheng@gmail.com
 
 <!---
